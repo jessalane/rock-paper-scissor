@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(#D50066,#4125D5);
+    height: 97vh;
+}
+
+h1 {
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: #fff;
+    text-shadow: 2px 3px 7px #000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+h3 {
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+#RPSinput {
+    width: 380px;
+    padding: 20px;
+    margin: auto;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#RPSplay {
+    width: 420px;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 5px;
+    font-size: 15px;
+}
